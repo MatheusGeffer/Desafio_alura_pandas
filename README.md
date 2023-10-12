@@ -10,8 +10,8 @@ Dia 2: Limpeza de dados.
 Dia 3: Análise exploratória de dados e DateTime.
 Dia 4: Análise exploratória de dados e Variáveis.
 Dia 5: Análise exploratória de dados e Boxplot
-Dia 6: Extraindo mais dados JSON e Excel.
-Dia 7: Customização de tabelas.
+Dia 6: Extraindo mais dados JSON e Excel, analisando alunos de graduação.
+Dia 7: Customização de tabelas e analizando alunos de pós graduação.
 
 
 LINGUAGENS BACKEND: Python 
