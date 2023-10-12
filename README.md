@@ -5,11 +5,18 @@ VERSÃO 1.0
 SINTAXE: Educacional
 
 DESCRIÇÃO: A projeto tem o obejtivo de práticar programçao através do desafio Python Pandas realizado pela plataforma de ensino Alura junto ao criador do desafio, Francisco Foz, Bibliotecário e Analista de Dados. A seguir a proposta de cada dia do desafio.
-Dia 1: 
+Dia 1: Unificar em um único Dataframe todos os dados pertinentes para a análise.
+Dia 2: Limpeza de dados.
+Dia 3: Análise exploratória de dados e DateTime.
+Dia 4: Análise exploratória de dados e Variáveis.
+Dia 5: Análise exploratória de dados e Boxplot
+Dia 6: Extraindo mais dados JSON e Excel.
+Dia 7: Customização de tabelas.
+
 
 LINGUAGENS BACKEND: Python 
 
-REQUISITOS: um editor de código fonte de sua preferência, neste caso foi utilizado o Visual Studio Code com a extensão do Jupyter Notebook.
+REQUISITOS: Um editor de código fonte de sua preferência, neste caso foi utilizado o Visual Studio Code com a extensão do Jupyter Notebook.
 
 AUTOR: Matheus Tomas Geffer
 
