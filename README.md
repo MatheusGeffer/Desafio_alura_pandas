@@ -26,6 +26,7 @@ ALTERAÇÕES  E ATUALIZAÇÕES: 25/09/2023 - Incio do projeto - Dia 1.
                             27/09/2023 - Continuação do desafio - Dia 2 e 3.
                             30/09/2023 - Continuação do desafio - Dia 4 e 5.
                             01/10/2023 - Finalização do desafio - Dia 6 e 7.
+                            12/10/2023 - Últimos ajuste, teste final e atualização final no GitHub.
             
 LINK DO DESAFIO: https://7daysofcode.io/matricula/pandas
 
