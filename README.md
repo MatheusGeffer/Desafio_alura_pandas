@@ -4,7 +4,7 @@ VERSÃO 1.0
 
 SINTAXE: Educacional
 
-DESCRIÇÃO: A projeto tem o obejtivo de práticar programçao através do desafio Python Pandas realizado pela plataforma de ensino Alura junto ao criador do desafio, Francisco Foz, Bibliotecário e Analista de Dados. A seguir a proposta de cada dia do desafio.
+DESCRIÇÃO: O projeto tem o obejtivo de práticar programçao através do desafio Python Pandas realizado pela plataforma de ensino Alura junto ao criador do desafio, Francisco Foz, Bibliotecário e Analista de Dados. A seguir a proposta de cada dia do desafio.
 Dia 1: Unificar em um único Dataframe todos os dados pertinentes para a análise.
 Dia 2: Limpeza de dados.
 Dia 3: Análise exploratória de dados e DateTime.
